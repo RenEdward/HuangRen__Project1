@@ -1,0 +1,14 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "Ren Huang personal website",
+  "main": "index.js",
+  "scripts": {
+    "compile:scss": "node-sass scss/main.scss css/index.css -w"
+  },
+  "author": "Ren Huang",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
