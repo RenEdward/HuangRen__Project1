@@ -1,0 +1,6 @@
+@mixin levelBarBefore {
+    height: 100%;
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    animation: load 2s 0s;
+}
